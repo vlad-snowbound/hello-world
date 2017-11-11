@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello! I'm Vlad!
+I want to learn web programming. Like doing sports, learning something new.
